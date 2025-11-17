@@ -1,9 +1,9 @@
 5220672 Task 2.4 : Split loop and extract total calculation methods
-92ee013 Task 2.4 : git log update
+92ee013 Task 2.3 : git log update
 dfce9e9 Task 2.3 : Remove frmt variable and extract usd method
-f2359ee Task 2.3 : update git log
+f2359ee Task 2.2 : update git log
 8ff81e9 Task 2.2 : Extract getVolumeCredits method
-87632a6 Task 2.2 : git log updated
+87632a6 Task 2.1 : git log updated
 3c37f39 Task 2.1 : Extract getAmount method and remove Play parameter
 c04d73a Task 1.2 : git log updated
 f3b06c1 Task 1.1 : Checkstyle problems fixed
