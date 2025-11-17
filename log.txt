@@ -1,3 +1,5 @@
+5220672 Task 2.4 : Split loop and extract total calculation methods
+92ee013 Task 2.4 : git log update
 dfce9e9 Task 2.3 : Remove frmt variable and extract usd method
 f2359ee Task 2.3 : update git log
 8ff81e9 Task 2.2 : Extract getVolumeCredits method
